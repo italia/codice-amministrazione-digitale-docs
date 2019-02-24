@@ -25,4 +25,4 @@ Art. 28. Certificati di firma elettronica qualificata
 
 4-bis\. Il certificatore ha l'obbligo di conservare le informazioni di cui ai commi 3 e 4 per almeno venti anni decorrenti dalla scadenza del certificato di firma. (28)
 
-AGGIORNAMENO (28) Il D.Lgs. 26 agosto 2016, n. 179 ha disposto (con l'art. 62, comma 4) che "I certificati qualificati rilasciati prima dell'entrata in vigore del presente decreto a norma della direttiva 1999/93/CE, sono considerati certificati qualificati di firma elettronica a norma del regolamento eIDAS e dell'articolo 28 del decreto legislativo n. 82 del 2005, come modificato dall'articolo 24 del presente decreto, fino alla loro scadenza".
+AGGIORNAMENTO (28) Il D.Lgs. 26 agosto 2016, n. 179 ha disposto (con l'art. 62, comma 4) che "I certificati qualificati rilasciati prima dell'entrata in vigore del presente decreto a norma della direttiva 1999/93/CE, sono considerati certificati qualificati di firma elettronica a norma del regolamento eIDAS e dell'articolo 28 del decreto legislativo n. 82 del 2005, come modificato dall'articolo 24 del presente decreto, fino alla loro scadenza".
