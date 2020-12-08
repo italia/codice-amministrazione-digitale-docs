@@ -1,5 +1,5 @@
-Sezione II. Diritti dei cittadini e delle imprese
--------------------------------------------------
+Sezione II. Carta della cittadinanza digitale
+---------------------------------------------
 
 
 .. toctree::

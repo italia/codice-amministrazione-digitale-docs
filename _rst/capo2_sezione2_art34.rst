@@ -15,7 +15,7 @@ Art. 34. Norme particolari per le pubbliche amministrazioni
 
    a\) all'interno della propria struttura organizzativa;
 
-   b\) affidandola, in modo totale o parziale, nel rispetto della disciplina vigente, ad altri soggetti, pubblici o privati accreditati come conservatori presso l'AgID.
+   b\) affidandola, in modo totale o parziale, nel rispetto della disciplina vigente, ad altri soggetti, pubblici o privati che possiedono i requisiti di qualità, di sicurezza e organizzazione individuati, nel rispetto della disciplina europea, nelle Linee guida di cui all'art 71 relative alla formazione, gestione e conservazione dei documenti informatici nonché in un regolamento sui criteri per la fornitura dei servizi di conservazione dei documenti informatici emanato da AgID, avuto riguardo all'esigenza di assicurare la conformità dei documenti conservati agli originali nonché la qualità e la sicurezza del sistema di conservazione.
 
 2\. COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217.
 

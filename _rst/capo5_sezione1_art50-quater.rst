@@ -1,7 +1,7 @@
-.. _art50-ter:
+.. _art50-quater:
 
-Art. 50-ter. Piattaforma digitale nazionale dati
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Art. 50-quater. Disponibilita' dei dati  generati  nella  fornitura  di  servizi  in concessione
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 

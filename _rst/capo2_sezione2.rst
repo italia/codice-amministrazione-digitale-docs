@@ -1,5 +1,5 @@
-Sezione II. Firme elettroniche e certificatori
-----------------------------------------------
+Sezione II. Firme elettroniche, certificati e prestatori di servizi fiduciari
+-----------------------------------------------------------------------------
 
 
 .. toctree::

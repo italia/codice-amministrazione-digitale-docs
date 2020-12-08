@@ -1,5 +1,5 @@
-Capo VIII. Sistema pubblico di connettività
-===========================================
+Capo VIII. Sistema pubblico di connettivita (SPC)
+=================================================
 
 .. toctree::
 

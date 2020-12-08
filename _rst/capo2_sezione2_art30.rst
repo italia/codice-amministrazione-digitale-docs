@@ -5,7 +5,7 @@ Art. 30. Responsabilità dei prestatori di servizi fiduciari qualificati, dei ge
 
 
 
-1\. I prestatori di servizi fiduciari qualificati, i gestori di posta elettronica certificata, i gestori dell'identità digitale e i conservatori di documenti informatici, iscritti nell'elenco di cui all'articolo 29, comma 6, che cagionano danno ad altri nello svolgimento della loro attività, sono tenuti al risarcimento, se non provano di avere adottato tutte le misure idonee a evitare il danno.
+1\. I prestatori di servizi fiduciari qualificati e i gestori di posta elettronica certificata, iscritti nell'elenco di cui all'articolo 29, comma 6, nonché i gestori dell'identità digitale e i conservatori di documenti informatici, che cagionano danno ad altri nello svolgimento della loro attività, sono tenuti al risarcimento, se non provano di avere adottato tutte le misure idonee a evitare il danno.
 
 2\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
 
