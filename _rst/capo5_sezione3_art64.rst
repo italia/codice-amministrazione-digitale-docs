@@ -49,4 +49,4 @@ Art. 64. Sistema pubblico per la gestione delle identità digitali e modalità d
 
 AGGIORNAMENTO (11) Il D.L. 29 dicembre 2010, n. 225, convertito con modificazioni dalla L. 26 febbraio 2011, n. 10, ha disposto (con l'art. 1, comma 1), in relazione al comma 3 del presente articolo, che è fissato al 31 marzo 2011 il termine di scadenza dei termini e dei regimi giuridici indicati nella tabella 1 allegata con scadenza in data anteriore al 15 marzo 2011".
 
-AGGIORNAMENTO (28) Il D.Lga. 26 agosto 2016, n. 179 ha disposto (con l'art. 61, comma 2, lettera d che l'espressione «cittadini e imprese», ovunque ricorra, si intende come «soggetti giuridici».
+AGGIORNAMENTO (28) Il D.Lgs. 26 agosto 2016, n. 179 ha disposto (con l'art. 61, comma 2, lettera d) che l'espressione «cittadini e imprese», ovunque ricorra, si intende come «soggetti giuridici».

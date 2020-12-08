@@ -9,7 +9,7 @@ Art. 3-bis. Identità digitale e domicilio digitale
 
 1-bis\. Fermo restando quanto previsto al comma 1, chiunque ha facoltà di eleggere il proprio domicilio digitale da iscrivere nell'elenco di cui all'articolo 6-quater. Nel caso in cui il domicilio eletto risulti non più attivo si procede alla cancellazione d'ufficio dall'indice di cui all'articolo 6-quater secondo le modalità fissate nelle Linee guida.
 
-1-ter\. I domicili digitali di cui ai commi 1 e 1-bis sono eletti secondo le modalità stabilite con le Linee guida. Le persone fisiche possono altresi' eleggere il domicilio digitale avvalendosi del servizio di cui all'articolo 64-bis.
+1-ter\. I domicili digitali di cui ai commi 1 e 1-bis sono eletti secondo le modalità stabilite con le Linee guida. Le persone fisiche possono altresì eleggere il domicilio digitale avvalendosi del servizio di cui all'articolo 64-bis.
 
 1-quater\. I soggetti di cui ai commi 1 e 1-bis hanno l'obbligo di fare un uso diligente del proprio domicilio digitale e di comunicare ogni modifica o variazione del medesimo secondo le modalità fissate nelle Linee guida. Con le stesse Linee guida, fermo restando quanto previsto ai commi 3-bis e 4-bis, sono definite le modalità di gestione e di aggiornamento dell'elenco di cui all'articolo 6-quater anche nei casi di decesso del titolare del domicilio digitale eletto o di impossibilità sopravvenuta di avvalersi del domicilio.
 
@@ -29,9 +29,9 @@ Art. 3-bis. Identità digitale e domicilio digitale
 
 4-quinquies\. Fino all'adozione delle Linee guida di cui al comma 1-ter del presente articolo e alla realizzazione dell'indice di cui all'articolo 6-quater, è possibile eleggere il domicilio speciale di cui all'articolo 47 del Codice civile anche presso un domicilio digitale diverso da quello di cui al comma 1-ter. In tal caso, ferma restando la validità ai fini delle comunicazioni elettroniche aventi valore legale, colui che lo ha eletto non può opporre eccezioni relative alla forma e alla data della spedizione e del ricevimento delle comunicazioni o notificazioni ivi indirizzate.
 
-5\. Dall'attuazione delle disposizioni di cui al presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
+5\. Dall'attuazione delle disposizioni di cui al presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. (21)
 
-AGGIORNAMENTO (21) Il D.L. 21 giugno 2013, n. 69, convertito con modificazioni dalla L. 9 agosto 2013, n. 98, nel modificare l'art. 4 comma 1, del D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 13, comma 2-quater) che il decreto ministeriale previsto dal presente articolo, qualora non ancora adottato e decorsi ulteriori trenta giorni dalla data di entrata in vigore della legge di conversione del D.L. 69/2013 suindicato, è adottato dal Presidente del Consiglio dei ministri anche ove non sia pervenuto il concerto dei Ministri interessati. (21)
+AGGIORNAMENTO (21) Il D.L. 21 giugno 2013, n. 69, convertito con modificazioni dalla L. 9 agosto 2013, n. 98, nel modificare l'art. 4 comma 1, del D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 13, comma 2-quater) che il decreto ministeriale previsto dal presente articolo, qualora non ancora adottato e decorsi ulteriori trenta giorni dalla data di entrata in vigore della legge di conversione del D.L. 69/2013 suindicato, è adottato dal Presidente del Consiglio dei ministri anche ove non sia pervenuto il concerto dei Ministri interessati.
 
 AGGIORNAMENTO (28) Il D.Lgs. 26 agosto 2016, n. 179 ha disposto (con l'art. 61, comma 2, lettera d che la parola «cittadino», ovunque ricorra, si intende come «persona fisica». Ha inoltre disposto (con l'art. 62, comma 1) che "Le disposizioni di cui ai commi 2 e 3-bis dell'articolo 3-bis del decreto legislativo n. 82 del 2005, come modificato dall'articolo 4 del presente decreto, producono effetti a partire dalla completa attuazione dell'ANPR e, comunque, non oltre il 31 dicembre 2017".
 

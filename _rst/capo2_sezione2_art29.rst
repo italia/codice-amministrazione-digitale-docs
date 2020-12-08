@@ -21,7 +21,9 @@ Art. 29. Qualificazione dei fornitori di servizi
 
 8\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
 
-9\. Alle attività previste dal presente articolo si fa fronte nell'ambito delle risorse del AgID, senza nuovi o maggiori oneri per la finanza pubblica. (28)
+9\. Alle attività previste dal presente articolo si fa fronte nell'ambito delle risorse del AgID, senza nuovi o maggiori oneri per la finanza pubblica.
+
+(28)
 
 AGGIORNAMENTO (28) Il D.Lgs. 26 agosto 2016, n. 179 ha disposto (con l'art. 62, comma 5) che "Il prestatore di servizi che ha presentato la relazione di conformità, ai sensi dell'articolo 51 del regolamento eIDAS, è considerato prestatore di servizi fiduciari qualificato a norma del predetto regolamento e dell'articolo 29 del decreto legislativo n. 82 del 2005, come modificato dall'articolo 25 del presente decreto, fino al completamento della valutazione della relazione da parte dell'AgID".
 
