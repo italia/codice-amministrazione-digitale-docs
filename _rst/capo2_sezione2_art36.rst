@@ -15,8 +15,8 @@ Art. 36. Revoca e sospensione dei certificati qualificati
 
    d\) revocato o sospeso in presenza di cause limitative della capacità del titolare o di abusi o falsificazioni.
 
-2\. Il certificato qualificato può, inoltre, essere revocato o sospeso nei casi previsti dalle regole tecniche di cui all'articolo 71, per violazione delle regole tecniche ivi contenute.
+2\. Il certificato qualificato può, inoltre, essere revocato o sospeso nei casi previsti dalle Linee guida, per  violazione delle regole tecniche ivi contenute
 
 3\. La revoca o la sospensione del certificato qualificato, qualunque ne sia la causa, ha effetto dal momento della pubblicazione della lista che lo contiene. Il momento della pubblicazione deve essere attestato mediante adeguato riferimento temporale.
 
-4\. Le modalità di revoca o sospensione sono previste nelle regole tecniche di cui all'articolo 71.
+4\. Le modalità di revoca o sospensione sono previste nelle Linee guida.

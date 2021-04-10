@@ -5,7 +5,7 @@ Art. 51. Sicurezza e disponibilità dei dati, dei sistemi e delle infrastrutture
 
 
 
-1\. Con le regole tecniche adottate ai sensi dell'articolo 71 sono individuate le soluzioni tecniche idonee a garantire la protezione, la disponibilità, l'accessibilità, l'integrità e la riservatezza dei dati e la continuità operativa dei sistemi e delle infrastrutture.
+1\. Con le Linee guida sono individuate le soluzioni tecniche idonee a garantire la protezione, la disponibilità, l'accessibilità, l'integrità e la riservatezza dei dati e la continuità operativa dei sistemi e delle infrastrutture.
 
 1-bis\. AgID attua, per quanto di competenza e in raccordo con le altre autorità competenti in materia, il Quadro strategico nazionale per la sicurezza dello spazio cibernetico e il Piano nazionale per la sicurezza cibernetica e la sicurezza informatica. AgID, in tale ambito:
 

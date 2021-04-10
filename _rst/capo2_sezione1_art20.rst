@@ -15,10 +15,10 @@ Art. 20. Validità ed efficacia probatoria dei documenti informatici
 
 2\. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2010, N. 235.
 
-3\. Le regole tecniche per la formazione, per la trasmissione, la conservazione, la copia, la duplicazione, la riproduzione e la validazione dei documenti informatici, nonché quelle in materia di generazione, apposizione e verifica di qualsiasi tipo di firma elettronica, sono stabilite con le Linee guida. PERIODO SOPPRESSO DAL D.LGS. 13 DICEMBRE 2017, N. 217.
+3\. Le regole tecniche per la formazione, per la trasmissione, la conservazione, la copia, la duplicazione, la riproduzione e la validazione dei documenti informatici, nonché quelle in materia di generazione, apposizione e verifica di qualsiasi tipo di firma elettronica, sono stabilite con le Linee guida. ((PERIODO SOPPRESSO DAL D.LGS. 13 DICEMBRE 2017, N. 217)).
 
 4\. Con le medesime regole tecniche sono definite le misure tecniche, organizzative e gestionali volte a garantire l'integrità, la disponibilità e la riservatezza delle informazioni contenute nel documento informatico.
 
 5\. Restano ferme le disposizioni di legge in materia di protezione dei dati personali.
 
-5-bis\. Gli obblighi di conservazione e di esibizione di documenti previsti dalla legislazione vigente si intendono soddisfatti a tutti gli effetti di legge a mezzo di documenti informatici, se le procedure utilizzate sono conformi alle regole tecniche dettate ai sensi dell'articolo 71.
+5-bis\. Gli obblighi di conservazione e di esibizione di documenti previsti dalla legislazione vigente si intendono soddisfatti a tutti gli effetti di legge a mezzo di documenti informatici, se le procedure utilizzate sono conformi alle Linee guida.
