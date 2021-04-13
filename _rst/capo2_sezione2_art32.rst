@@ -13,17 +13,17 @@ Art. 32. Obblighi del titolare di firma elettronica qualificata e del prestatore
 
    a\) provvedere con certezza alla identificazione della persona che fa richiesta della certificazione;
 
-   b\) rilasciare e rendere pubblico il certificato elettronico nei modi o nei casi stabiliti dalle regole tecniche di cui all'articolo 71, nel rispetto del decreto legislativo 30 giugno 2003, n. 196, e successive modificazioni;
+   b\) rilasciare e rendere pubblico il certificato elettronico nei modi o nei casi stabiliti dalle Linee guida, nel rispetto del decreto legislativo 30 giugno 2003, n. 196, e successive modificazioni;
 
    c\) specificare, nel certificato qualificato su richiesta dell'istante, e con il consenso del terzo interessato, i poteri di rappresentanza o altri titoli relativi all'attività professionale o a cariche rivestite, previa verifica della documentazione presentata dal richiedente che attesta la sussistenza degli stessi;
 
-   d\) attenersi alle regole tecniche di cui all'articolo 71;
+   d\) attenersi alle Linee guida;
 
    e\) informare i richiedenti in modo compiuto e chiaro, sulla procedura di certificazione e sui necessari requisiti tecnici per accedervi e sulle caratteristiche e sulle limitazioni d'uso delle firme emesse sulla base del servizio di certificazione;
 
    f\) LETTERA SOPPRESSA DAL D.LGS. 30 DICEMBRE 2010, N. 235;
 
-   g\) procedere alla tempestiva pubblicazione della revoca e della sospensione del certificato elettronico in caso di richiesta da parte del titolare di firma elettronica qualificata o del terzo dal quale derivino i poteri del titolare di firma elettronica qualificata medesimo, di perdita del possesso o della compromissione del dispositivo di firma o degli strumenti di autenticazione informatica per l'utilizzo del dispositivo di firma, di provvedimento dell'autorità, di acquisizione della conoscenza di cause limitative della capacità del titolare di firma elettronica qualificata, di sospetti abusi o falsificazioni, secondo quanto previsto dalle regole tecniche di cui all'articolo 71;
+   g\) procedere alla tempestiva pubblicazione della revoca e della sospensione del certificato elettronico in caso di richiesta da parte del titolare di firma elettronica qualificata o del terzo dal quale derivino i poteri del titolare di firma elettronica qualificata medesimo, di perdita del possesso o della compromissione del dispositivo di firma o degli strumenti di autenticazione informatica per l'utilizzo del dispositivo di firma, di provvedimento dell'autorità, di acquisizione della conoscenza di cause limitative della capacità del titolare di firma elettronica qualificata, di sospetti abusi o falsificazioni, secondo quanto previsto dalle Linee guida;
 
    h\) garantire un servizio di revoca e sospensione dei certificati elettronici sicuro e tempestivo nonché garantire il funzionamento efficiente, puntuale e sicuro degli elenchi dei certificati di firma emessi, sospesi e revocati;
 

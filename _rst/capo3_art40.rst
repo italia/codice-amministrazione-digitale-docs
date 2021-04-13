@@ -5,7 +5,7 @@ Art. 40. Formazione di documenti informatici
 
 
 
-1\. Le pubbliche amministrazioni formano gli originali dei propri documenti, inclusi quelli inerenti ad albi, elenchi e pubblici registri, con mezzi informatici secondo le disposizioni di cui al presente codice e le regole tecniche di cui all'articolo 71.
+1\. Le pubbliche amministrazioni formano gli originali dei propri documenti, inclusi quelli inerenti ad albi, elenchi e pubblici registri, con mezzi informatici secondo le disposizioni di cui al presente codice e le Linee guida.
 
 2\. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2010, N. 235.
 

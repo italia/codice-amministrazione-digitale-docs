@@ -31,4 +31,4 @@ Art. 41. Procedimento e fascicolo informatico
 
 3\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
 
-AGGIORNAMENTO (28) Il D.Lgs. 26 agosto 2016, n. 179 ha disposto (con l'art. 61, comma 2, lettera d)) che l' espressione «chiunque», ovunque ricorra, si intende come «soggetti giuridici».
+AGGIORNAMENTO (28) Il D.Lgs. 26 agosto 2016, n. 179 ha disposto (con l'art. 61, comma 2, lettera d che l' espressione «chiunque», ovunque ricorra, si intende come «soggetti giuridici».

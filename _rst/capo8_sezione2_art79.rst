@@ -15,7 +15,7 @@ Art. 79. Commissione di coordinamento del Sistema pubblico di connettività
 
    c\) promuove l'evoluzione del modello organizzativo e dell'architettura tecnologica del SPC in funzione del mutamento delle esigenze delle pubbliche amministrazioni e delle opportunità derivanti dalla evoluzione delle tecnologie;
 
-   d\) promuove la cooperazione applicativa fra le pubbliche amministrazioni, nel rispetto delle regole tecniche di cui all'articolo 71;
+   d\) promuove la cooperazione applicativa fra le pubbliche amministrazioni, nel rispetto delle Linee guida;
 
    e\) definisce i criteri e ne verifica l'applicazione in merito alla iscrizione, sospensione e cancellazione dagli elenchi dei fornitori qualificati SPC di cui all'articolo 82;
 
