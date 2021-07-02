@@ -6,14 +6,13 @@ Art. 65  Istanze e dichiarazioni presentate alle pubbliche amministrazioni per v
 
   a\) se sottoscritte mediante una delle forme di  cui  all'articolo 20; 
 
-  b\) ovvero, quando l'istante  o  il  dichiarante  è  identificato attraverso il sistema pubblico di  identità  digitale  (SPID),  ((la carta di identità elettronica o la carta nazionale dei servizi;)); 
+  b\) ovvero, quando l'istante  o  il  dichiarante  è  identificato attraverso il sistema pubblico di identità digitale (SPID), la carta di identità elettronica o la carta nazionale dei servizi;; 
 
-
-((b-bis) ovvero formate tramite il punto  di  accesso  telematico per i dispositivi mobili di cui all'articolo 64-bis;)) 
+  b-bis\) ovvero formate tramite il punto di accesso telematico  per i dispositivi mobili di cui all'articolo 64-bis; 
 
   c\) ovvero sono sottoscritte e presentate  unitamente  alla  copia del documento d'identità;; 
 
-  c-bis\) ((ovvero se trasmesse dall'istante o dal  dichiarante  dal proprio domicilio digitale iscritto  in  uno  degli  elenchi  di  cui all'articolo 6-bis,  6-ter  o  6-quater  ovvero,  in  assenza  di  un domicilio digitale  iscritto,  da  un  indirizzo  elettronico  eletto presso un servizio di posta elettronica  certificata  o  un  servizio elettronico di recapito certificato qualificato,  come  definito  dal Regolamento  eIDAS.))  ((In  tale  ultimo  caso,  di  assenza  di  un domicilio digitale iscritto, la trasmissione costituisce elezione  di domicilio digitale ai sensi e per gli  effetti  dell'articolo  3-bis, comma  1-ter.))  Sono  fatte  salve  le  disposizioni  normative  che prevedono l'uso di specifici sistemi di trasmissione  telematica  nel settore tributario; 
+  c-bis\) ovvero se trasmesse dall'istante  o  dal  dichiarante  dal proprio domicilio digitale iscritto  in  uno  degli  elenchi  di  cui all'articolo 6-bis,  6-ter  o  6-quater  ovvero,  in  assenza  di  un domicilio digitale  iscritto,  da  un  indirizzo  elettronico  eletto presso un servizio di posta elettronica  certificata  o  un  servizio elettronico di recapito certificato qualificato,  come  definito  dal Regolamento  eIDAS.  In  tale  ultimo  caso,  ((in  assenza))  di  un domicilio digitale iscritto, la trasmissione costituisce elezione  di domicilio digitale ((speciale, ai sensi  dell'articolo  3-bis,  comma 4-quinquies, per gli atti  e  le  comunicazioni  a  cui  è  riferita l'istanza o la dichiarazione)).  Sono  fatte  salve  le  disposizioni normative che prevedono l'uso di specifici  sistemi  di  trasmissione telematica nel settore tributario; 
 
   1-bis\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179. 
 

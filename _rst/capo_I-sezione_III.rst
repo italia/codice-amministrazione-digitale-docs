@@ -14,5 +14,6 @@ Sezione III Organizzazione delle pubbliche amministrazioni Rapporti fra Stato, R
    capo_I-sezione_III-articolo_16.rst
    capo_I-sezione_III-articolo_17.rst
    capo_I-sezione_III-articolo_18.rst
+   capo_I-sezione_III-articolo_18-bis.rst
    capo_I-sezione_III-articolo_19.rst
 
