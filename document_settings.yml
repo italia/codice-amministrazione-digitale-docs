@@ -1,6 +1,11 @@
----
 document:
-  name: "Codice dell'amministrazione digitale"
-  description: "Lo Stato, le Regioni e le autonomie locali assicurano la disponibilità, la gestione, l’accesso, la trasmissione, la conservazione e la fruibilità dell’informazione in modalità digitale e si organizzano ed agiscono a tale fine utilizzando con le modalità più appropriate e nel modo più adeguato al soddisfacimento degli interessi degli utenti le tecnologie dell’informazione e della comunicazione."
+  description: "Lo Stato, le Regioni e le autonomie locali assicurano la disponibilit\xE0\
+    , la gestione, l\u2019accesso, la trasmissione, la conservazione e la fruibilit\xE0\
+    \ dell\u2019informazione in modalit\xE0 digitale e si organizzano ed agiscono\
+    \ a tale fine utilizzando con le modalit\xE0 pi\xF9 appropriate e nel modo pi\xF9\
+    \ adeguato al soddisfacimento degli interessi degli utenti le tecnologie dell\u2019\
+    informazione e della comunicazione."
+  name: Codice dell'amministrazione digitale.
   tags:
-    - "piano triennale"
+  - piano triennale
+  version: v2020-09-14
