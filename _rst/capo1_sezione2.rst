@@ -1,4 +1,4 @@
-Sezione II. Diritti dei cittadini e delle imprese
+Sezione II. ((Carta della cittadinanza digitale))
 -------------------------------------------------
 
 
@@ -6,6 +6,7 @@ Sezione II. Diritti dei cittadini e delle imprese
 
    capo1_sezione2_art3.rst
    capo1_sezione2_art3-bis.rst
+   capo1_sezione2_art3-ter.rst
    capo1_sezione2_art4.rst
    capo1_sezione2_art5.rst
    capo1_sezione2_art5-bis.rst

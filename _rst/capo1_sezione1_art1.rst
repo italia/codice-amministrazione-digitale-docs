@@ -65,17 +65,13 @@ Art. 1. Definizioni
 
    r\) LETTERA SOPPRESSA DAL D.LGS. 26 AGOSTO 2016, N. 179;
 
-   s\) firma digitale: un particolare tipo di firma qualificata basata su un sistema di chiavi crittografiche, una pubblica e una privata, correlate tra loro, che consente al titolare di firma elettronica tramite la chiave privata e a un soggetto terzo tramite la chiave pubblica, rispettivamente, di rendere manifesta e di verificare la provenienza e l'integrità di un documento informatico o di un insieme di documenti informatici;
+   s\) firma digitale: un particolare tipo di firma qualificata basata su un su un sistema di chiavi crittografiche, una pubblica e una privata, correlate tra loro, che consente al titolare ((di firma elettronica)) tramite la chiave privata ((e a un soggetto terzo)) tramite la chiave pubblica, rispettivamente, di rendere manifesta e di verificare la provenienza e l'integrità di un documento informatico o di un insieme di documenti informatici;
 
    t\) LETTERA SOPPRESSA DAL D.LGS. 26 AGOSTO 2016, N. 179;
 
    u\) LETTERA SOPPRESSA DAL D.LGS. 26 AGOSTO 2016, N. 179;
 
-   u-bis\) gestore di posta elettronica certificata: il soggetto che presta servizi di trasmissione dei documenti informatici mediante la posta elettronica certificata;
-
-   u-ter\) LETTERA SOPPRESSA DAL D.LGS. 26 AGOSTO 2016, N. 179;
-
-   u-quater\) identità digitale: la rappresentazione informatica della corrispondenza tra un utente e i suoi attributi identificativi, verificata attraverso l'insieme dei dati raccolti e registrati in forma digitale secondo le modalità fissate nel decreto attuativo dell'articolo 64;
+   u-bis\) gestore di posta elettronica certificata: il soggetto che presta servizi di trasmissione dei documenti informatici mediante la posta elettronica certificata; u-ter)LETTERA SOPPRESSA DAL D.LGS. 26 AGOSTO 2016, N. 179; u-quater) identità digitale: la rappresentazione informatica della corrispondenza tra un utente e i suoi attributi identificativi, verificata attraverso l'insieme dei dati raccolti e registrati in forma digitale secondo le modalità fissate nel decreto attuativo dell'articolo 64;
 
    v\) originali non unici: i documenti per i quali sia possibile risalire al loro contenuto attraverso altre scritture o documenti di cui sia obbligatoria la conservazione, anche se in possesso di terzi;
 
@@ -83,7 +79,7 @@ Art. 1. Definizioni
 
    z\) LETTERA SOPPRESSA DAL D.LGS. 26 AGOSTO 2016, N. 179;
 
-   aa\) titolare di firma elettronica: la persona fisica cui è attribuita la firma elettronica e che ha accesso ai dispositivi per la sua creazione nonché alle applicazioni per la sua apposizione della firma elettronica;
+   aa\) titolare ((di firma elettronica)): la persona fisica cui è attribuita la firma elettronica e che ha accesso ai dispositivi per la ((sua)) creazione ((nonché alle applicazioni per la sua apposizione)) della firma elettronica;
 
    bb\) LETTERA SOPPRESSA DAL D.LGS. 26 AGOSTO 2016, N. 179;
 
@@ -91,10 +87,10 @@ Art. 1. Definizioni
 
    dd\) interoperabilità: caratteristica di un sistema informativo, le cui interfacce sono pubbliche e aperte, di interagire in maniera automatica con altri sistemi informativi per lo scambio di informazioni e l'erogazione di servizi;
 
-   ee\) cooperazione applicativa: la parte del Sistema Pubblico di Connettività finalizzata all'interazione tra i sistemi informatici dei soggetti partecipanti, per garantire l'integrazione dei metadati, delle informazioni, dei processi e procedimenti amministrativi.
+   ee\) cooperazione applicativa: la parte del Sistema Pubblico di Connettività finalizzata all'interazione tra i sistemi informatici dei soggetti partecipanti, per garantire l'integrazione dei metadati, delle informazioni, dei processi e procedimenti amministrativi.))
 
    ff\) Linee guida: le regole tecniche e di indirizzo adottate secondo il procedimento di cui all'articolo 71.
 
 1-bis\. Ai fini del presente Codice, valgono le definizioni di cui all'articolo 3 del Regolamento eIDAS;
 
-1-ter\. Ove la legge consente l'utilizzo della posta elettronica certificata è ammesso anche l'utilizzo di altro servizio elettronico di recapito certificato qualificato ai sensi degli articoli 3, numero 37), e 44 del Regolamento eIDAS.
+1-ter\. Ove la legge consente l'utilizzo della posta elettronica certificata è ammesso anche l'utilizzo di altro servizio elettronico di recapito certificato ((qualificato ai sensi degli articoli 3, numero 37), e 44 del Regolamento eIDAS)).

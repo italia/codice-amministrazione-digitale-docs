@@ -19,7 +19,7 @@ Art. 68. Analisi comparativa delle soluzioni
 
    f\) software combinazione delle precedenti soluzioni.
 
-1-bis\. A tal fine, le pubbliche amministrazioni prima di procedere all'acquisto, secondo le procedure di cui al codice di cui al decreto legislativo n. 50 del 2016, effettuano una valutazione comparativa delle diverse soluzioni disponibili sulla base dei seguenti criteri:
+1-bis\. A tal fine, le pubbliche amministrazioni prima di procedere all'acquisto, secondo le procedure di cui al codice di cui al decreto legislativo ((n. 50 del 2016)), effettuano una valutazione comparativa delle diverse soluzioni disponibili sulla base dei seguenti criteri:
 
    a\) costo complessivo del programma o soluzione quale costo di acquisto, di implementazione, di mantenimento e supporto;
 
@@ -33,8 +33,14 @@ Art. 68. Analisi comparativa delle soluzioni
 
 2-bis\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
 
-3\. COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217.
+3\. ((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217)).
 
-4\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179. (28)
+4\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
 
-AGGIORNAMENTO (28) Il D.Lgs. 26 agosto 2016, n. 179 ha disposto (con l'art. 61, comma 2, lettera d che l'espressione «chiunque» ovunque ricorra, si intende come «soggetti giuridici».
+(28)
+
+-------------
+
+AGGIORNAMENTO (28)
+
+Il D.Lgs. 26 agosto 2016, n. 179 ha disposto (con l'art. 61, comma 2, lettera d)) che l'espressione «chiunque» ovunque ricorra, si intende come «soggetti giuridici».
